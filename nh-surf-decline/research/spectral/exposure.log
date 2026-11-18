@@ -1,0 +1,18 @@
+/Users/jkat/Documents/waves_project/research/spectral/coastal_exposure.py:23: DeprecationWarning: The 'shapely.ops.transform()' function is deprecated. Use 'shapely.transform()' or 'shapely.transform_coordseq()' instead. See https://shapely.readthedocs.io/en/latest/manual.html#shapely.ops.transform for more details.
+  land_m=transform(tr.transform,land)
+bounds BBox(xmin=-180.0, ymin=-68.924526, xmax=180.0, ymax=83.633389)
+Hampton_offshore_50km_buf0 [[28.0, 56.0], [63.0, 150.0]]
+Hampton_offshore_100km_buf0 [[33.0, 56.0], [63.0, 150.0]]
+Hampton_offshore_100km_buf500 [[33.0, 54.0], [65.0, 149.0]]
+Hampton_offshore_100km_buf-1 [[33.0, 151.0]]
+Hampton_offshore_150km_buf0 [[45.0, 56.0], [63.0, 148.0]]
+Jenness_offshore_50km_buf0 [[34.0, 88.0], [100.0, 104.0], [105.0, 160.0]]
+Jenness_offshore_100km_buf0 [[35.0, 88.0], [100.0, 104.0], [105.0, 160.0]]
+Jenness_offshore_100km_buf500 [[37.0, 86.0], [108.0, 159.0]]
+Jenness_offshore_100km_buf-1 [[35.0, 161.0]]
+Jenness_offshore_150km_buf0 [[47.0, 88.0], [100.0, 104.0], [105.0, 151.0]]
+Wallis_offshore_50km_buf0 [[32.0, 128.0], [139.0, 141.0], [142.0, 144.0], [146.0, 167.0]]
+Wallis_offshore_100km_buf0 [[37.0, 38.0], [39.0, 128.0], [139.0, 141.0], [142.0, 144.0], [146.0, 167.0]]
+Wallis_offshore_100km_buf500 [[37.0, 38.0], [40.0, 42.0], [43.0, 125.0], [149.0, 167.0]]
+Wallis_offshore_100km_buf-1 [[37.0, 169.0]]
+Wallis_offshore_150km_buf0 [[50.0, 128.0], [139.0, 141.0], [142.0, 144.0], [146.0, 154.0], [166.0, 167.0]]

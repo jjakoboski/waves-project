@@ -1,0 +1,40 @@
+
+Fontconfig error: No writable cache directories
+	/Users/jkat/miniconda3/var/cache/fontconfig
+	/Users/jkat/.cache/fontconfig
+	/Users/jkat/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/Users/jkat/miniconda3/var/cache/fontconfig
+	/Users/jkat/.cache/fontconfig
+	/Users/jkat/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/Users/jkat/miniconda3/var/cache/fontconfig
+	/Users/jkat/.cache/fontconfig
+	/Users/jkat/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/Users/jkat/miniconda3/var/cache/fontconfig
+	/Users/jkat/.cache/fontconfig
+	/Users/jkat/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/Users/jkat/miniconda3/var/cache/fontconfig
+	/Users/jkat/.cache/fontconfig
+	/Users/jkat/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/Users/jkat/miniconda3/var/cache/fontconfig
+	/Users/jkat/.cache/fontconfig
+	/Users/jkat/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/Users/jkat/miniconda3/var/cache/fontconfig
+	/Users/jkat/.cache/fontconfig
+	/Users/jkat/.fontconfig
+2026-11-17 14:05:41.681 system_profiler[83822:5109412] XType: Using static font registry.
+Matplotlib is building the font cache; this may take a moment.
+/Users/jkat/Documents/waves_project/research/spectral/build_directional_report.py:22: DeprecationWarning: The 'shapely.ops.transform()' function is deprecated. Use 'shapely.transform()' or 'shapely.transform_coordseq()' instead. See https://shapely.readthedocs.io/en/latest/manual.html#shapely.ops.transform for more details.
+  tr=Transformer.from_crs(4326,32619,always_xy=True);g=Geod(ellps='WGS84');land=transform(tr.transform,shape(json.load(open(P/'land_region.geojson'))));meta=json.load(open(P/'exposure_summary.json'));m=np.load(P/'exposure_masks.npz');dirs=m['directions']
+/Users/jkat/Documents/waves_project/output/pdf/nh_surf_directional_report.pdf

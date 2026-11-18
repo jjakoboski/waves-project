@@ -1,0 +1,42 @@
+
+STATION 44098
+2011 coverage 0.968 months 12 Hs 1.222
+2012 coverage 0.902 months 10 Hs 1.199
+2013 coverage 0.92 months 11 Hs 1.269
+2014 coverage 0.968 months 12 Hs 1.256
+2015 coverage 0.932 months 10 Hs 1.166
+2016 coverage 0.887 months 9 Hs 1.252
+2017 coverage 0.934 months 11 Hs 1.244
+2018 coverage 0.951 months 11 Hs 1.293
+2019 coverage 0.853 months 9 Hs 1.223
+2020 coverage 0.994 months 12 Hs 1.257
+2021 coverage 0.972 months 11 Hs 1.164
+2022 coverage 0.955 months 10 Hs 1.222
+2023 coverage 0.996 months 12 Hs 1.196
+2024 coverage 0.997 months 12 Hs 1.192
+2025 coverage 0.97 months 11 Hs 1.2
+2011 2015 55 {"period_s": 7.5509, "h1_p10": 0.0961, "h1_p8_east": 0.1721, "ge1m": 0.5215, "ge2m": 0.1279, "h1_p8": 0.2096, "height_m": 1.2497, "ge1_5m": 0.2614}
+2016 2020 52 {"period_s": 7.5729, "h1_p10": 0.1109, "h1_p8_east": 0.1877, "ge1m": 0.5467, "ge2m": 0.1456, "h1_p8": 0.224, "height_m": 1.296, "ge1_5m": 0.2847}
+2021 2025 56 {"period_s": 7.5608, "h1_p10": 0.0975, "h1_p8_east": 0.1727, "ge1m": 0.4929, "ge2m": 0.127, "h1_p8": 0.1966, "height_m": 1.1991, "ge1_5m": 0.2375}
+2011 2020 107 {"period_s": 7.5705, "h1_p10": 0.104, "h1_p8_east": 0.1804, "ge1m": 0.5339, "ge2m": 0.1352, "h1_p8": 0.2175, "height_m": 1.2691, "ge1_5m": 0.2715}
+
+STATION 44007
+2011 coverage 0.994 months 12 Hs 0.939
+2012 coverage 0.976 months 12 Hs 0.923
+2013 coverage 0.885 months 10 Hs 0.912
+2014 coverage 0.97 months 11 Hs 0.925
+2015 coverage 0.839 months 5 Hs 0.975
+2016 coverage 0.988 months 12 Hs 0.961
+2017 coverage 0.994 months 12 Hs 1.006
+2018 coverage 0.989 months 12 Hs 1.012
+2019 coverage 0.985 months 12 Hs 0.955
+2020 coverage 0.982 months 12 Hs 0.997
+2021 coverage 0.947 months 10 Hs 0.898
+2022 coverage 0.794 months 9 Hs 0.958
+2023 coverage 1.0 months 12 Hs 0.974
+2024 coverage 0.999 months 12 Hs 0.96
+2025 coverage 0.998 months 12 Hs 0.905
+2011 2015 50 {"period_s": 7.6899, "h1_p10": 0.1059, "ge1m": 0.321, "ge2m": 0.0591, "h1_p8": 0.1653, "height_m": 0.9353, "ge1_5m": 0.1278}
+2016 2020 60 {"period_s": 7.8916, "h1_p10": 0.1181, "h1_p8_east": 0.1352, "ge1m": 0.3557, "ge2m": 0.07, "h1_p8": 0.1844, "height_m": 0.9864, "ge1_5m": 0.1511}
+2021 2025 55 {"period_s": 7.9362, "h1_p10": 0.112, "h1_p8_east": 0.127, "ge1m": 0.3329, "ge2m": 0.059, "h1_p8": 0.1685, "height_m": 0.9558, "ge1_5m": 0.1281}
+2011 2020 110 {"period_s": 7.7963, "h1_p10": 0.112, "h1_p8_east": 0.1369, "ge1m": 0.3396, "ge2m": 0.0647, "h1_p8": 0.1751, "height_m": 0.9623, "ge1_5m": 0.1402}

@@ -1,0 +1,119 @@
+[
+  {
+    "year": 2011,
+    "coverage_pct": 96.82648401826484,
+    "observed_pct": 1.4972883753831645,
+    "seasonally_adjusted_pct": 1.5166660435333617,
+    "good_months": 12
+  },
+  {
+    "year": 2012,
+    "coverage_pct": 90.32331511839709,
+    "observed_pct": 3.1635996975044116,
+    "seasonally_adjusted_pct": 4.090239343371649,
+    "good_months": 10
+  },
+  {
+    "year": 2013,
+    "coverage_pct": 91.837899543379,
+    "observed_pct": 2.877563704164077,
+    "seasonally_adjusted_pct": 3.1329901021209707,
+    "good_months": 11
+  },
+  {
+    "year": 2014,
+    "coverage_pct": 96.84931506849315,
+    "observed_pct": 3.1117397454031117,
+    "seasonally_adjusted_pct": 3.1686473157124446,
+    "good_months": 12
+  },
+  {
+    "year": 2015,
+    "coverage_pct": 93.25342465753425,
+    "observed_pct": 2.9318153996817236,
+    "seasonally_adjusted_pct": 2.1298295762469452,
+    "good_months": 10
+  },
+  {
+    "year": 2016,
+    "coverage_pct": 81.34107468123861,
+    "observed_pct": 2.0363890832750173,
+    "seasonally_adjusted_pct": 2.5226614822908835,
+    "good_months": 9
+  },
+  {
+    "year": 2017,
+    "coverage_pct": 93.21917808219177,
+    "observed_pct": 2.6757286309086457,
+    "seasonally_adjusted_pct": 2.7457894281529915,
+    "good_months": 11
+  },
+  {
+    "year": 2018,
+    "coverage_pct": 95.07990867579909,
+    "observed_pct": 4.016088365950294,
+    "seasonally_adjusted_pct": 3.762077350493018,
+    "good_months": 11
+  },
+  {
+    "year": 2019,
+    "coverage_pct": 85.38812785388127,
+    "observed_pct": 3.5762032085561493,
+    "seasonally_adjusted_pct": 4.620410350209762,
+    "good_months": 9
+  },
+  {
+    "year": 2020,
+    "coverage_pct": 99.408014571949,
+    "observed_pct": 2.788593678424187,
+    "seasonally_adjusted_pct": 2.776380070381773,
+    "good_months": 12
+  },
+  {
+    "year": 2021,
+    "coverage_pct": 97.12328767123287,
+    "observed_pct": 2.3977433004231314,
+    "seasonally_adjusted_pct": 3.022370168342651,
+    "good_months": 11
+  },
+  {
+    "year": 2022,
+    "coverage_pct": 87.61415525114155,
+    "observed_pct": 2.5276872964169383,
+    "seasonally_adjusted_pct": 3.243202662441217,
+    "good_months": 10
+  },
+  {
+    "year": 2023,
+    "coverage_pct": 99.61187214611873,
+    "observed_pct": 2.555581022232409,
+    "seasonally_adjusted_pct": 2.5412387328696955,
+    "good_months": 12
+  },
+  {
+    "year": 2024,
+    "coverage_pct": 99.6584699453552,
+    "observed_pct": 2.136166323966187,
+    "seasonally_adjusted_pct": 2.1163388190750934,
+    "good_months": 12
+  },
+  {
+    "year": 2025,
+    "coverage_pct": 96.98630136986301,
+    "observed_pct": 1.0769774011299436,
+    "seasonally_adjusted_pct": 0.8305264385210835,
+    "good_months": 11
+  }
+]
+NE_SE_gt3_p8 2024 0.7 best breaks improvement/year/pp [(0.001156, 2020, -0.565), (0.001047, 2021, -0.569), (0.000529, 2022, -0.446), (0.000126, 2019, -0.182)]
+NE_SE_gt3_p8 2024 0.8 best breaks improvement/year/pp [(0.000491, 2018, 0.36), (0.000451, 2022, -0.414), (0.000369, 2017, 0.316), (0.000362, 2020, -0.319)]
+NE_SE_gt3_p8 2024 0.9 best breaks improvement/year/pp [(0.000506, 2022, -0.44), (0.000435, 2020, -0.352), (0.000327, 2021, -0.324), (0.000299, 2018, 0.284)]
+NE_SE_gt3_p8 2025 0.7 best breaks improvement/year/pp [(0.00389, 2023, -1.19), (0.003009, 2021, -0.897), (0.002825, 2020, -0.838), (0.002543, 2022, -0.881)]
+NE_SE_gt3_p8 2025 0.8 best breaks improvement/year/pp [(0.003801, 2023, -1.18), (0.002336, 2022, -0.848), (0.001687, 2021, -0.679), (0.001568, 2020, -0.63)]
+NE_SE_gt3_p8 2025 0.9 best breaks improvement/year/pp [(0.003915, 2023, -1.202), (0.002446, 2022, -0.872), (0.001797, 2021, -0.705), (0.001693, 2020, -0.66)]
+NE_SSE_gt3_p8 2024 0.7 best breaks improvement/year/pp [(0.0012, 2021, -0.609), (0.000881, 2020, -0.493), (0.000479, 2022, -0.425), (7.9e-05, 2018, 0.143)]
+NE_SSE_gt3_p8 2024 0.8 best breaks improvement/year/pp [(0.000757, 2018, 0.447), (0.000612, 2017, 0.407), (0.00048, 2016, 0.371), (0.000408, 2022, -0.393)]
+NE_SSE_gt3_p8 2024 0.9 best breaks improvement/year/pp [(0.0005, 2018, 0.368), (0.000467, 2022, -0.422), (0.000417, 2021, -0.365), (0.000388, 2017, 0.328)]
+NE_SSE_gt3_p8 2025 0.7 best breaks improvement/year/pp [(0.003972, 2023, -1.203), (0.003444, 2021, -0.96), (0.002649, 2022, -0.9), (0.002551, 2020, -0.797)]
+NE_SSE_gt3_p8 2025 0.8 best breaks improvement/year/pp [(0.003889, 2023, -1.194), (0.002444, 2022, -0.868), (0.002004, 2021, -0.74), (0.001352, 2020, -0.585)]
+NE_SSE_gt3_p8 2025 0.9 best breaks improvement/year/pp [(0.00402, 2023, -1.218), (0.002572, 2022, -0.894), (0.002143, 2021, -0.77), (0.001484, 2020, -0.618)]

@@ -1,0 +1,8 @@
+{
+  "direction_max_error_degrees": 1.906092501258172e-05,
+  "moment_max_error": 0.0009991561112482018,
+  "refined_bands": 1065,
+  "valid_hours": 127264,
+  "sample_stride": 2,
+  "direction_step_degrees": 1
+}

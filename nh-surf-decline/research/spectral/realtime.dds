@@ -1,0 +1,193 @@
+Dataset {
+    String sourceFilename[sourceCount = 23310];
+    Int32 waveTime[waveTime = 21746];
+    Int32 waveTimeBounds[waveTime = 21746][metaBoundsCount = 2];
+    Byte waveFlagPrimary[waveTime = 21746];
+    Byte waveFlagSecondary[waveTime = 21746];
+    Float32 waveHs[waveTime = 21746];
+    Float32 waveTp[waveTime = 21746];
+    Float32 waveTa[waveTime = 21746];
+    Float32 waveDp[waveTime = 21746];
+    Float32 wavePeakPSD[waveTime = 21746];
+    Float32 waveTz[waveTime = 21746];
+    Float32 wavePeakSpread[waveTime = 21746];
+    Float32 waveTi[waveTime = 21746];
+    Float32 waveTe[waveTime = 21746];
+    Float32 waveTm13[waveTime = 21746];
+    Float32 waveTc[waveTime = 21746];
+    Float32 waveInverseQp[waveTime = 21746];
+    Int32 waveSourceIndex[waveTime = 21746];
+    Float32 waveFrequency[waveFrequency = 100];
+    Float32 waveFrequencyBounds[waveFrequency = 100][metaBoundsCount = 2];
+    Byte waveFrequencyFlagPrimary[waveFrequency = 100];
+    Byte waveFrequencyFlagSecondary[waveFrequency = 100];
+    Float32 waveBandwidth[waveFrequency = 100];
+    Grid {
+     ARRAY:
+        Float32 waveEnergyDensity[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveEnergyDensity;
+    Grid {
+     ARRAY:
+        Float32 waveMeanDirection[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveMeanDirection;
+    Grid {
+     ARRAY:
+        Float32 waveA1Value[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveA1Value;
+    Grid {
+     ARRAY:
+        Float32 waveB1Value[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveB1Value;
+    Grid {
+     ARRAY:
+        Float32 waveA2Value[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveA2Value;
+    Grid {
+     ARRAY:
+        Float32 waveB2Value[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveB2Value;
+    Grid {
+     ARRAY:
+        Float32 waveCheckFactor[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveCheckFactor;
+    Grid {
+     ARRAY:
+        Float32 waveSpread[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveSpread;
+    Grid {
+     ARRAY:
+        Float32 waveM2Value[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveM2Value;
+    Grid {
+     ARRAY:
+        Float32 waveN2Value[waveTime = 21746][waveFrequency = 100];
+     MAPS:
+        Int32 waveTime[waveTime = 21746];
+        Float32 waveFrequency[waveFrequency = 100];
+    } waveN2Value;
+    Int32 sstTime[sstTime = 129741];
+    Int32 sstTimeBounds[sstTime = 129741][metaBoundsCount = 2];
+    Byte sstFlagPrimary[sstTime = 129741];
+    Byte sstFlagSecondary[sstTime = 129741];
+    Float32 sstSeaSurfaceTemperature[sstTime = 129741];
+    Int32 sstSourceIndex[sstTime = 129741];
+    Int32 gpsTime[gpsTime = 129605];
+    Int32 gpsTimeBounds[gpsTime = 129605][metaBoundsCount = 2];
+    Float32 gpsLatitude[gpsTime = 129605];
+    Float32 gpsLongitude[gpsTime = 129605];
+    Int32 gpsSourceIndex[gpsTime = 129605];
+    Int32 acmTime[acmTime = 64883];
+    Int32 acmTimeBounds[acmTime = 64883][metaBoundsCount = 2];
+    Byte acmFlagPrimary[acmTime = 64883];
+    Byte acmFlagSecondary[acmTime = 64883];
+    Float32 acmSpeed[acmTime = 64883];
+    Float32 acmSpeedStdDev[acmTime = 64883];
+    Float32 acmDirection[acmTime = 64883];
+    Float32 acmDirectionStdDev[acmTime = 64883];
+    Float32 acmSignalStrength1[acmTime = 64883];
+    Float32 acmSignalStrength2[acmTime = 64883];
+    Float32 acmSignalStrength3[acmTime = 64883];
+    Byte acmStatus[acmTime = 64883];
+    Float32 acmSeaSurfaceTemperature[acmTime = 64883];
+    Float32 acmVerticalSpeed[acmTime = 64883];
+    Float32 acmVerticalSpeedStdDev[acmTime = 64883];
+    Int32 acmSourceIndex[acmTime = 64883];
+    Int32 dwr4Time[dwr4Time = 21745];
+    Int32 dwr4TimeBounds[dwr4Time = 21745][metaBoundsCount = 2];
+    Int32 dwr4Uptime[dwr4Time = 21745];
+    Int32 dwr4BatteryWeeksOfLife[dwr4Time = 21745];
+    Int32 dwr4EnergyUsed[dwr4Time = 21745];
+    Int32 dwr4SourceIndex[dwr4Time = 21745];
+    Int32 dwr4EnergyToBoostcaps[dwr4Time = 21745];
+    Int32 dwr4ZAccelMaxCount[dwr4Time = 21745];
+    Int32 dwr4XAccelMaxCount[dwr4Time = 21745];
+    Int32 dwr4YAccelMaxCount[dwr4Time = 21745];
+    Int32 dwr4PitchMaxCount[dwr4Time = 21745];
+    Int32 dwr4RollMaxCount[dwr4Time = 21745];
+    Float32 dwr4HatchTemperature[dwr4Time = 21745];
+    Float32 dwr4BatteryVoltage[dwr4Time = 21745];
+    Float32 dwr4ZAccelerometerOffset[dwr4Time = 21745];
+    Float32 dwr4XAccelerometerOffset[dwr4Time = 21745];
+    Float32 dwr4YAccelerometerOffset[dwr4Time = 21745];
+    Float32 dwr4OrientMean[dwr4Time = 21745];
+    Float32 dwr4OrientStdDev[dwr4Time = 21745];
+    Float32 dwr4InclinMean[dwr4Time = 21745];
+    Float32 dwr4InclinStdDev[dwr4Time = 21745];
+    Float32 dwr4MagFieldLengthMean[dwr4Time = 21745];
+    Float32 dwr4MagFieldLengthStdDev[dwr4Time = 21745];
+    Float32 dwr4SensorTemperature[dwr4Time = 21745];
+    Int32 upcrossTime[upcrossTime = 21742];
+    Int32 upcrossTimeBounds[upcrossTime = 21742][metaBoundsCount = 2];
+    Byte upcrossFlagPrimary[upcrossTime = 21742];
+    Byte upcrossFlagSecondary[upcrossTime = 21742];
+    Int32 upcrossSourceIndex[upcrossTime = 21742];
+    Int32 upcrossCrestCount[upcrossTime = 21742];
+    Int32 upcrossWaveCount[upcrossTime = 21742];
+    Float32 upcrossHavg[upcrossTime = 21742];
+    Float32 upcrossHmax[upcrossTime = 21742];
+    Float32 upcrossHsRMS[upcrossTime = 21742];
+    Float32 upcrossHofTmax[upcrossTime = 21742];
+    Float32 upcrossTofHmax[upcrossTime = 21742];
+    Float32 upcrossTz[upcrossTime = 21742];
+    Float32 upcrossTmax[upcrossTime = 21742];
+    Float32 upcrossBandwidth[upcrossTime = 21742];
+    Float32 upcrossCoverage[upcrossTime = 21742];
+    Float32 upcrossHtenth[upcrossTime = 21742];
+    Float32 upcrossHthird[upcrossTime = 21742];
+    Float32 upcrossTofHtenth[upcrossTime = 21742];
+    Float32 upcrossTofHthird[upcrossTime = 21742];
+    Float32 upcrossQuantileHeight[upcrossTime = 21742][upcrossQuantileLength = 23];
+    Int32 syncTime[syncTime = 21746];
+    Int32 syncTimeBounds[syncTime = 21746][metaBoundsCount = 2];
+    Int32 syncSourceIndex[syncTime = 21746];
+    Int32 syncSegmentCount[syncTime = 21746];
+    Int32 syncSegmentsUsed[syncTime = 21746];
+    Int32 syncSamples[syncTime = 21746];
+    String syncLastDisplacements[syncTime = 21746];
+    Int32 cat4Time[cat4Time = 129719];
+    Int32 cat4TimeBounds[cat4Time = 129719][metaBoundsCount = 2];
+    Byte cat4FlagPrimary[cat4Time = 129719];
+    Byte cat4FlagSecondary[cat4Time = 129719];
+    Float32 cat4AirTemperature[cat4Time = 129719];
+    Int32 cat4SourceIndex[cat4Time = 129719];
+    Byte cat4StatusFlags[cat4Time = 129719];
+    Float32 cat4WhiteTemperature[cat4Time = 129719];
+    Float32 cat4BlackTemperature[cat4Time = 129719];
+    Float32 cat4MetalTemperature[cat4Time = 129719];
+    Float32 cat4GroovedTemperature[cat4Time = 129719];
+    String metaStationName;
+    String metaPlatform;
+    String metaInstrumentation;
+    Float32 metaDeployLatitude;
+    Float32 metaDeployLongitude;
+    Float32 metaWaterDepth;
+    Float32 metaDeclination;
+    String metaGridMapping;
+} cdip/realtime/160p1_rt.nc;

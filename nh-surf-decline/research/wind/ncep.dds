@@ -1,0 +1,13 @@
+Dataset {
+    Float32 lat[lat = 94];
+    Float32 lon[lon = 192];
+    Float64 time[time = 1460];
+    Grid {
+     ARRAY:
+        Float32 uwnd[time = 1460][lat = 94][lon = 192];
+     MAPS:
+        Float64 time[time = 1460];
+        Float32 lat[lat = 94];
+        Float32 lon[lon = 192];
+    } uwnd;
+} Datasets/ncep.reanalysis/surface_gauss/uwnd.10m.gauss.2025.nc;
