@@ -1,0 +1,4 @@
+https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=hourly_height&application=sea_level_comparison&begin_date=20251117&end_date=20261116&datum=MSL&station=9410170&time_zone=gmt&units=metric&format=json
+https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=predictions&application=sea_level_comparison&begin_date=20251117&end_date=20261116&datum=MSL&station=9410170&time_zone=gmt&units=metric&format=json&interval=h
+https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&application=sea_level_comparison&begin_date=20261001&end_date=20261031&datum=MSL&station=9410170&time_zone=gmt&units=metric&format=json
+https://api.tidesandcurrents.noaa.gov/api/prod/datagetter?product=water_level&application=sea_level_comparison&begin_date=20261101&end_date=20261116&datum=MSL&station=9410170&time_zone=gmt&units=metric&format=json

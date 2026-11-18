@@ -1,0 +1,30 @@
+{
+  "n_pairs": 53,
+  "correlation": 0.8203708184269927,
+  "centered_rms_difference_cm": 6.298219544588876,
+  "mean_absolute_centered_difference_cm": 5.032761620257867,
+  "satellite_lat": 32.625,
+  "satellite_lon": -117.375,
+  "gauge_metadata": {
+    "id": "9410170",
+    "name": "San Diego",
+    "lat": "32.7156",
+    "lon": "-117.1767"
+  },
+  "distance_km": 21.14059523873389,
+  "satellite_removed_mean_cm": 10.314528301886792,
+  "gauge_removed_mean_cm": 18.149466776045937,
+  "valid_gauge_days": 365,
+  "total_days": 365,
+  "min_hours": 20,
+  "verified_only": {
+    "n": 46,
+    "correlation": 0.4462540942404675,
+    "centered_rms_difference_cm": 6.025233498559592
+  },
+  "recent_preliminary": {
+    "n": 7,
+    "correlation": 0.10453922265776583,
+    "centered_rms_difference_cm": 7.84895468725229
+  }
+}
